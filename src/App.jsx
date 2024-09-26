@@ -5,7 +5,7 @@ import Product from "./pages/product";
 function App() {
   const router = createBrowserRouter([
     {
-      path: "/y",
+      path: "/",
       element: <DashBoard />,
     },
     {
